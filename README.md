@@ -1,4 +1,4 @@
-Hello, i have build a fully functionable rugging multitool with which you can do basically anything you'd like with memecoins, from creating them to complex rug techniques such as bundling the pool creation and swaps from wallets to guarantee you are the first in.
+Hello, I have build a fully functionable rugging multitool on SOLANA with which you can do basically anything you'd like with memecoins, from creating them to complex rug techniques such as bundling the pool creation and swaps from wallets to guarantee you are the first in.
 
 All functions: (you can basically do anything)
 
